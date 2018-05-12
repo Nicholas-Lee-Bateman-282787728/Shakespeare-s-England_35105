@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8304
     wikipedia: http://en.wikipedia.org/wiki/William_Winter_(author)
 description: At the grave of Coleridge, pp. 208-214.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35105#Shakespeare-s-England
 gutenberg_issued: '2011-01-28'
 gutenberg_type: Text
 identifiers:
